@@ -1,0 +1,16 @@
+[	
+ {
+  "peronalDetail" : {
+		 "name" : "Nitesh",
+		 "surname" : "Karhe",
+		 "addressList" : [ {
+			"Street": "18Beaker",
+			"Landmark" : "RedPole",
+			"City" : "Pune",
+			"Country" : "India"
+			}],
+		 "profession" : "ITEngineer",
+		 "age" : "26"
+		 }
+ }
+]

@@ -1,0 +1,31 @@
+{
+  "type" : "None",
+  "clients": [
+    {
+      "id": "59761c23b30d971669fb42ff",
+      "isActive": true,
+      "age": 36,
+      "name": "Dunlap Hubbard",
+      "gender": "male",
+      "nationality": [{
+	"First": "Indian",
+	"Second": "US"
+       }],
+       "Phone": {
+	"Mobile": "90280906182",
+	"Tele": "147562"
+      }
+  }],
+ "customer" : [
+    {
+      "id": "59761c233d8d0f92a6b0570d",
+      "isActive": true,
+      "age": 24,
+      "name": "Kirsten Sellers",
+      "gender": "female",
+      "nationality": [{
+	"First": "Pakistan",
+	"Second": "Arab"
+       }]
+    }]
+}
